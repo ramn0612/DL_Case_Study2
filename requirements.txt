@@ -2,3 +2,5 @@ streamlit
 torch
 torchvision
 matplotlib
+gdown
+tensorflow
